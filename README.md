@@ -18,4 +18,4 @@ It can be viewed under the "Container/Apps" tab.
 To test the image and container, I changed the text in the html file and ran the "sca-application" container, and it returned the same text. The images from the docker application and the browser can be found on the master branch
 
 # Dockerhub repo
-shelovescode/sca-first-assessment-image
+https://hub.docker.com/repository/docker/shelovescode/sca-first-assessment-image
