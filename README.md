@@ -2,7 +2,10 @@
 SCA Cloud School Application
 
 # Branch hierarchy
-The master branch might be called main
+The master branch is main
+
+# File location
+The main branch only has documentation and the README.md as is required. To find the solutions, please checkout to Start and feature.
 
 # To run the container
 docker build . -t sca-application // This command creates a new container called "sca-application"
